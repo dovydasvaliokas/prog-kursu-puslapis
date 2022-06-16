@@ -1,3 +1,28 @@
 * {
     box-sizing: border-box;
 }
+
+
+.header {
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 0.25rem;
+    gap: 0.25rem;
+}
+
+.logo {
+    height: 3rem;
+    width: 100px;
+    background-color: aquamarine;
+}
+
+
+.button-line {
+    display: flex;
+}
+
+
+.button {
+    border: 1px solid grey;
+}
