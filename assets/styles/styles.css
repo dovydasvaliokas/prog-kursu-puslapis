@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 
+/*------------------ HEADERIO STILIAI ----------------------*/
 
 .header {
     display: flex;
@@ -17,11 +18,9 @@
     background-color: aquamarine;
 }
 
-
 .button-line {
     display: flex;
 }
-
 
 .button {
     border: 1px solid grey;
@@ -29,4 +28,13 @@
 
 .button-url {
     padding: 0.5em;
+}
+
+/*----------------- MAIN DALIES DIDESNIŲ DALIŲ STILIAI-----------*/
+.main-wrapper {
+    display: flex;
+}
+
+.topics-sidebar {
+    flex-basis: 20%;
 }
