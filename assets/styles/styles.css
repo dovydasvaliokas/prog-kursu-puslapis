@@ -34,7 +34,3 @@
 .main {
     display: flex;
 }
-
-.topics-sidebar {
-    flex-basis: 20%;
-}
